@@ -29,7 +29,15 @@
 </p>
 
 <p align="center">
-  Supervisor: Rania Garofalaki, Laboratory Teaching Staff<br>
+  Supervisor: Periklis Andritsos, Professor
+</p>
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/periklis-andritsos/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/periklisandritsos/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Co-supervisor: Rania Garofalaki, Laboratory Teaching Staff<br>
 </p>
 
 <p align="center">
